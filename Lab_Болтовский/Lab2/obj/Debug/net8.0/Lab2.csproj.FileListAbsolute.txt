@@ -1,0 +1,14 @@
+C:\Users\IvanD\source\repos\Lab_Болтовский\Lab2\bin\Debug\net8.0\Lab2.exe
+C:\Users\IvanD\source\repos\Lab_Болтовский\Lab2\bin\Debug\net8.0\Lab2.deps.json
+C:\Users\IvanD\source\repos\Lab_Болтовский\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+C:\Users\IvanD\source\repos\Lab_Болтовский\Lab2\bin\Debug\net8.0\Lab2.dll
+C:\Users\IvanD\source\repos\Lab_Болтовский\Lab2\bin\Debug\net8.0\Lab2.pdb
+C:\Users\IvanD\source\repos\Lab_Болтовский\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvanD\source\repos\Lab_Болтовский\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\IvanD\source\repos\Lab_Болтовский\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+C:\Users\IvanD\source\repos\Lab_Болтовский\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\IvanD\source\repos\Lab_Болтовский\Lab2\obj\Debug\net8.0\Lab2.dll
+C:\Users\IvanD\source\repos\Lab_Болтовский\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+C:\Users\IvanD\source\repos\Lab_Болтовский\Lab2\obj\Debug\net8.0\Lab2.pdb
+C:\Users\IvanD\source\repos\Lab_Болтовский\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+C:\Users\IvanD\source\repos\Lab_Болтовский\Lab2\obj\Debug\net8.0\ref\Lab2.dll
